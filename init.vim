@@ -39,6 +39,7 @@ call plug#end()
 "NUMBERING:
 "----------
 :set number
+:set relativenumber
 
 "INDENTATION:
 "------------
