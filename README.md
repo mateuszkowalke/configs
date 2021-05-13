@@ -13,3 +13,7 @@ remember to add:
     }
   }
 }
+
+:help vim-go
+
+:help coc-nvim
